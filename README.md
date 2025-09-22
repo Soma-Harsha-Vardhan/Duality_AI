@@ -30,7 +30,7 @@ dataset/
 │ └─ val/
 └─ data.yaml
 
-```yaml
+yaml
 train: dataset/images/train
 val: dataset/images/val
 nc: 7
@@ -120,5 +120,5 @@ MIT License – free for personal, research, and commercial use.
 ________________________________________
 🔹 Contact
 Ch. Sragvi Sai
-📧 Email: sragvisai@example.com 
+📧 Email: sragvisai19@gmail.com
 

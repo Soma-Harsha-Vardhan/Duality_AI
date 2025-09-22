@@ -62,7 +62,7 @@ os.environ['TMPDIR'] = 'K:/temp'
 if not os.path.exists('K:/temp'):
     os.makedirs('K:/temp')
 
-# Load YOLOv8 extra-large model with ViT backbone
+# Load YOLOv8 extra-large model 
 model = YOLO("yolov8x.pt")  # automatically downloads weights if not present
 
 # Train model
